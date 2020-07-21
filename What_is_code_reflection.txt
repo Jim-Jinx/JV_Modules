@@ -1,0 +1,36 @@
+ What is a computer really doing whenever you type a letter on a keyboard?
+ -> Keyboard scans for keys. Pressing the keys can send a scancode. Keyboard is waiting for a key to be pressed. Computer is waiting for a signal. The computer interprets that signal. The goal is to get an a to appear on the screen. While that's happening, the "a" signal is being converted into binary (circles and lines) that place pizel on the screen. Mutiple pixels combine to be displayed on the screen. 
+
+In your own words, how do computers use input and output to create experiences? 
+-> The computer interprets that signal. The goal is to get an a to appear on the screen. While that's happening, the "a" signal is being converted into binary (circles and lines) that place pizel on the screen. Mutiple pixels combine to be displayed on the screen. 
+
+Explain why software products are essentially "infintely reproducible nothings." 
+-> Software products are infintely reproducible nothing because they are non physical pieces of technology that has been and can be reproduce by companies who sell it for free. 
+
+ How does code become software? 
+Code is the origin of software. Code is inputted and repeated several timers to create software. A seuence of symbols (using typical kayboard characters, saved to a file) that someone typed in, or copied, or pasted from elsewhere. Turning code into an explicit list of instructions that can be carried out by interconnected logic gates, code that can be executed is sfotware. 
+
+What are algorithms? 
+An alogrithm is software that can be translated into a function. 
+
+DRY Principle
+D- Do not
+R - Repeat
+Y - Yourself 
+
+Name things once, do things once, create a function once, and let the computer repeat itself. 
+
+What is object-oriented programming? 
+Object -Oriented programming is a filing system for code. Provided a system to classify functions
+
+Explain and how it relates to code? 
+Data is user input that can navigate the course of your code. 
+
+What is a framework? 
+A basic system underlying a system, concept, or text 
+
+What is debugging?
+The process of identifying and removing errors from computer hardware or software.
+
+Why do you want to learn how to code?
+I want to learn how to code because I want to provide a better user experience for the world. Considering it's versaility, you can use code to make software that can be introduce into different hardware. Code is another method of creation. 
