@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-sclae=1">
+      <title>Jimmaely's Portfolio</title>
+</head>
+<body> 
+    <div class=“banner”>
+      <div class=“title”>
+        <h1>Welcome to my portfolio</h1>
+      </div>
+			<div class=“nav”>
+					   <ul>
+							      <li><a href=“index.html”>Home</a></li>
+							      <li<a href=“resume.html”>Resume</a></li> 
+					   </ul>
+			</div>div>
+    <div>
+		<div class=“banner”>
+			<div class=“title”>
+				  <h1>Resume</h1> 
+			</div>div>
+			<div class=“nav”>
+				     <ul>
+							    <li><a href=“index.html”>Home</a></li>
+							    <li><a href=“resume.html”>Resume</a></li> 
+				     </ul> 
+			</div> 
+		<div>
+		<div  class=“about-me”>
+			<div class=“profile”>
+				<div class=“profile-pic”>
+          <img src ="IMG_81521.png">
+				</div>
+				<div class=“social-media”>
+          <p> <a href="https://www.linkedin.com/in/jimmaely-valdez/" target="_blank">Just LinkedIn for now</a> </p>
+
+        
+				</div>
+			</div>
+			<div class=“about-me-text”>
+         <p>Since high school, I’ve had a growing enthusiasm for technology.<br> Through my studies, my curiosity has pointed me towards data science and machine learning; 
+            <br>however, my education has not provided me with enough guidance to break into the field.</br> </br>
+               Through The Knowledge House, I hope to enhance my understanding of data science by <br>learning the fundamentals, and its applications.</br></p> 
+          <hr>
+			</div>
+		</div>
+
+    </body> 
+</html>
